@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "username":"aishwarya.gawande@paysense.in",
+        "password":"Testing@123" 
+    },
+    {
+        "id" : 2,
+        "username":"aishwarya.gawande1@paysense.in",
+        "password":"Testing@123" 
+    },
+    {
+        "id": 3,
+        "username":"aishwarya.gawande2@paysense.in",
+        "password":"Testing@123" 
+    }
+]
